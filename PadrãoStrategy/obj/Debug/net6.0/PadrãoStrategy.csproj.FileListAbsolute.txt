@@ -1,0 +1,15 @@
+C:\Users\bruna.silva\source\repos\CursoDesingPatterns\PadrãoStrategy\bin\Debug\net6.0\PadrãoStrategy.exe
+C:\Users\bruna.silva\source\repos\CursoDesingPatterns\PadrãoStrategy\bin\Debug\net6.0\PadrãoStrategy.deps.json
+C:\Users\bruna.silva\source\repos\CursoDesingPatterns\PadrãoStrategy\bin\Debug\net6.0\PadrãoStrategy.runtimeconfig.json
+C:\Users\bruna.silva\source\repos\CursoDesingPatterns\PadrãoStrategy\bin\Debug\net6.0\PadrãoStrategy.dll
+C:\Users\bruna.silva\source\repos\CursoDesingPatterns\PadrãoStrategy\bin\Debug\net6.0\PadrãoStrategy.pdb
+C:\Users\bruna.silva\source\repos\CursoDesingPatterns\PadrãoStrategy\obj\Debug\net6.0\PadrãoStrategy.csproj.AssemblyReference.cache
+C:\Users\bruna.silva\source\repos\CursoDesingPatterns\PadrãoStrategy\obj\Debug\net6.0\PadrãoStrategy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bruna.silva\source\repos\CursoDesingPatterns\PadrãoStrategy\obj\Debug\net6.0\PadrãoStrategy.AssemblyInfoInputs.cache
+C:\Users\bruna.silva\source\repos\CursoDesingPatterns\PadrãoStrategy\obj\Debug\net6.0\PadrãoStrategy.AssemblyInfo.cs
+C:\Users\bruna.silva\source\repos\CursoDesingPatterns\PadrãoStrategy\obj\Debug\net6.0\PadrãoStrategy.csproj.CoreCompileInputs.cache
+C:\Users\bruna.silva\source\repos\CursoDesingPatterns\PadrãoStrategy\obj\Debug\net6.0\PadrãoStrategy.dll
+C:\Users\bruna.silva\source\repos\CursoDesingPatterns\PadrãoStrategy\obj\Debug\net6.0\refint\PadrãoStrategy.dll
+C:\Users\bruna.silva\source\repos\CursoDesingPatterns\PadrãoStrategy\obj\Debug\net6.0\PadrãoStrategy.pdb
+C:\Users\bruna.silva\source\repos\CursoDesingPatterns\PadrãoStrategy\obj\Debug\net6.0\PadrãoStrategy.genruntimeconfig.cache
+C:\Users\bruna.silva\source\repos\CursoDesingPatterns\PadrãoStrategy\obj\Debug\net6.0\ref\PadrãoStrategy.dll
